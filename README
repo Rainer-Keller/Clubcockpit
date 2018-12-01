@@ -1,0 +1,11 @@
+Die Dateien herunterladen und in ein Verzeichnis auspacken.
+Zum Testen in das ausgepackte Verzeichnis wechseln und dann PHP starten:
+
+    php -S localhost:8000
+
+Dann im Browser zu 'localhost:8000' surfen.
+
+Man kann sich einloggen, ausloggen und einen Datenzugriff versuchen.
+Die Ergebnisse werden auf der Seite angezeigt.
+
+Eine Sitzung habe ich zum Testen mal auf 30 Sekunden Inaktivität begrenzt.
